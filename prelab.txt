@@ -1,0 +1,5 @@
+git push,git add,git pul,git commit,git config,git status
+cloning terlebih dahulu,gunakan perintah git clone(link github)
+digunakan untuk melakukan pengecekan terhadap adakah file atau folder yang belum dilakukan proses commit
+tidak,karena harusmenggunakan remote name terlebih dahulu
+
